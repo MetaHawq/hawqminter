@@ -5,7 +5,7 @@
 Steps to run the application in your local machine:-
 
 * Clone this repo:
-* 
+
 ```text
 git clone https://github.com/MetaHawq/hawqminter.git
 ```
